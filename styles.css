@@ -34,9 +34,13 @@ li {
 ul .sign-up {
     background-color: hsla(29, 84%, 49%, 1);
     border-radius: 15px;
-    color: white;
 }
 
+
+ul li > a {
+    text-decoration: none;
+    color: white;
+}
 /*-------------Main Section-------------*/
 
 main {
